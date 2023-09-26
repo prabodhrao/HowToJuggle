@@ -4,7 +4,7 @@
   <p>Send me any questions you may have at raoprabodh@gmail.com.</p>
   <p>Disclaimer: I am not a professional! If you want to learn juggling from a professional juggler, click this link:</p>
     <video>
-      <img:src="https://www.youtube.com/watch?v=JZmmOdnljG4"/>
+      <source src="https://www.youtube.com/watch?v=JZmmOdnljG4"/>
     </video>
 
 <h2>Blog Posts</h2>
