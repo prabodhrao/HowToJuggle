@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <h1>A blog that takes my readers on my juggling journey!</h2>
   <p>Send me any questions you may have at raoprabodh@gmail.com.</p>
