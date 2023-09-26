@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<h1>A blog that teaches people how to juggle!</h2>
-  <img:src=" " />
-<p>Send us any questions you may have at raoprabodh@gmail.com.</p>
+<h1>A blog that takes my readers on my juggling journey!</h2>
+  <p>Send me any questions you may have at raoprabodh@gmail.com.</p>
+  <p>Disclaimer: I am not a professional! If you want to learn juggling from a professional juggler, click this link <img:src="https://www.youtube.com/watch?v=JZmmOdnljG4" /></p>
 
 <h2>Blog Posts</h2>
 
