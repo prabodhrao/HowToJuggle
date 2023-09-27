@@ -1,5 +1,5 @@
 <html>
-<h1>A blog that takes my readers on my juggling journey!</h2>
+<h1>A blog that takes my readers on my juggling journey!</h1>
   <p>Send me any questions you may have at raoprabodh@gmail.com.</p>
   <p>Disclaimer: I am not a professional! If you want to learn juggling from a professional juggler, click this <a href="https://www.youtube.com/watch?v=JZmmOdnljG4">link!</a></p>
 <h1>Blog Posts</h1>
@@ -11,7 +11,7 @@
     <img src="Screenshot (2.1).png">
 <h3>1/22/19</h3>
   <p>1/22- Hello everybody. Over the past couple of weekends, I've been trying pretty hard to learn four ball juggling, but I keep getting discouraged. It's pretty difficult to keep juggling and keep four balls up at the same time. Just a quick sneak peek at the tips and tricks section of the website that I created, you have to juggle two balls in each hand when juggling four balls. It's hard because there are two things that you have to concentrate on at the same time which are the two hands. Plus, both hands are at different points at different times which means that one hand is throwing while one hand is catching. This makes it difficult on me. I'm thinking about going back to practicing two balls with one hand and slowly integrating another hand until I can successfully juggle four balls. I'll practice this and I'll show you guys my progress next time. Bye!</p>
-</html>
+
 
 
 
